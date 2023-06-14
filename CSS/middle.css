@@ -1,4 +1,58 @@
 .middle{
 	background-color: lightgrey;
 	height: 5000px;
+	padding-right: auto;
+	padding-left: auto;
+}
+.middle_01{
+	background-color: rebeccapurple;
+	height: auto;
+	margin-top: 75px;
+	padding-right: auto;
+	padding-left: auto;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	text-align: center;
+}
+#logo{
+	width: 350px;
+	height: 350px;
+}
+#main_title{
+	color: black;
+	font-size: 35px;
+}
+#sub_title{
+	color: black;
+	font-size: 15px;
+}
+#connect{
+	color: black;
+	font-size: 25px;
+	padding-top: 30px;
+}
+#future{
+	/* background-color: tomato; */
+	height: 30px;
+	margin: 0;
+	list-style: none;
+	padding: 0;
+	padding-left: auto;
+	padding-right: auto;
+	text-align: center;
+	padding-bottom: 20px;
+}
+#future li{
+	text-align: center;
+	margin: 0;
+	padding: 0;
+	height: 30px;
+	line-height: 30px;
+	width: 30px;
+	display: inline;
+}
+#future img{
+	width: 32px;
+	padding-left: 5px;
+	padding-right: 5px;
 }
