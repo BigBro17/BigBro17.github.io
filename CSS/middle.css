@@ -1,13 +1,22 @@
 .middle{
 	background-color: lightgrey;
-	height: 5000px;
+	height: auto;
 	padding-right: auto;
 	padding-left: auto;
 }
 .middle_01{
-	background-color: rebeccapurple;
+	background-color: mediumpurple;
 	height: auto;
 	margin-top: 75px;
+	padding-right: auto;
+	padding-left: auto;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	text-align: center;
+}
+.middle_02{
+	background-color: mediumpurple;
+	height: 500px;
 	padding-right: auto;
 	padding-left: auto;
 	padding-top: 20px;
@@ -19,15 +28,15 @@
 	height: 350px;
 }
 #main_title{
-	color: black;
+	color: white;
 	font-size: 35px;
 }
 #sub_title{
-	color: black;
+	color: white;
 	font-size: 15px;
 }
 #connect{
-	color: black;
+	color: white;
 	font-size: 25px;
 	padding-top: 30px;
 }
@@ -55,4 +64,9 @@
 	width: 32px;
 	padding-left: 5px;
 	padding-right: 5px;
+}
+#whatwork{
+	color: white;
+	font-size: 25px;
+	padding-top: 30px;
 }

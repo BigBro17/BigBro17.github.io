@@ -23,7 +23,7 @@
 }
 
 .navigation a {
-	background-color: black;
+	background-color: rebeccapurple;
 	text-decoration: none;
 	color: white;
 	text-align: center;
@@ -37,4 +37,16 @@
 .navigation a:hover {
 	background-color: #fff;
 	color: black;
+}
+@media only screen and (max-width:600px) {
+	.navigation li {
+		margin: 0px;
+		padding: 0px;
+		display: inline;
+		height: 100%;
+	}
+	
+	.navigation a {
+		width: 80px;
+	}
 }
