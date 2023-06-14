@@ -50,12 +50,12 @@
 	width: 16px;
 	height: 16px;
 	-webkit-filter: brightness(100%);
-	filter: brightness(100%);	
+	/* filter: brightness(100%);	 */
 }
 .footericon img:hover{
 	/* background-color: #fff; */
 	-webkit-filter: brightness(60%);
-	filter: brightness(60%);	
+	/* filter: brightness(60%);	 */
 }
 .footermid{
 	/* background-color: tomato; */
