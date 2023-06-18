@@ -37,6 +37,18 @@
 .navigation a:hover {
 	background-color: #fff;
 	color: black;
+	height: 75px;
+
+}
+#Email{
+	color: white;
+	display: inline;
+	line-height: 75px;
+	font-size: 20px;
+}
+#Email img{
+	vertical-align: middle;
+	height: 32px;
 }
 @media only screen and (max-width:600px) {
 	.navigation li {
